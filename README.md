@@ -1,2 +1,2 @@
 # RecyclerViewCeilingSuctionDemo
-一个展示了RecyclerView标题吸顶效果的demo，重写了RecyclerView.ItemDecoration进行实现
+一个展示RecyclerView标题吸顶效果的demo，重写了RecyclerView.ItemDecoration进行实现
